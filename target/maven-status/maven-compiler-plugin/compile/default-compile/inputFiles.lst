@@ -1,0 +1,13 @@
+D:\project\task-management-app\task-management-app\backend\src\main\java\com\taskmanager\dto\TaskStatusUpdateRequest.java
+D:\project\task-management-app\task-management-app\backend\src\main\java\com\taskmanager\controller\TaskController.java
+D:\project\task-management-app\task-management-app\backend\src\main\java\com\taskmanager\model\TaskStatus.java
+D:\project\task-management-app\task-management-app\backend\src\main\java\com\taskmanager\dto\TaskSummaryResponse.java
+D:\project\task-management-app\task-management-app\backend\src\main\java\com\taskmanager\service\TaskService.java
+D:\project\task-management-app\task-management-app\backend\src\main\java\com\taskmanager\TaskManagerApplication.java
+D:\project\task-management-app\task-management-app\backend\src\main\java\com\taskmanager\exception\GlobalExceptionHandler.java
+D:\project\task-management-app\task-management-app\backend\src\main\java\com\taskmanager\config\CorsConfig.java
+D:\project\task-management-app\task-management-app\backend\src\main\java\com\taskmanager\repository\TaskRepository.java
+D:\project\task-management-app\task-management-app\backend\src\main\java\com\taskmanager\dto\TaskRequest.java
+D:\project\task-management-app\task-management-app\backend\src\main\java\com\taskmanager\exception\ErrorResponse.java
+D:\project\task-management-app\task-management-app\backend\src\main\java\com\taskmanager\model\Task.java
+D:\project\task-management-app\task-management-app\backend\src\main\java\com\taskmanager\exception\TaskNotFoundException.java
